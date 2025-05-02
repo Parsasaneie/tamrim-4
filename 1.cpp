@@ -68,6 +68,6 @@ int main(){
         else{cout<<"NO\n";}
     }
     
-
+int x=19;
     
 }//salam
